@@ -1,2 +1,2 @@
-# Celectronics
-Write C code to control raspiberry electronics.
+### Introduction
+A hobby repo to learn c code and raspberry pi electronics.
